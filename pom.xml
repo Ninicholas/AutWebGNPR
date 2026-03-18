@@ -59,6 +59,15 @@
         </dependency>
         <!-- Proyecto CON CUCUMBER-->
 
+        <!-- Reporte PDF -->
+        <dependency>
+            <groupId>tech.grasshopper</groupId>
+            <artifactId>extentreports-cucumber7-adapter</artifactId>
+            <version>1.14.0</version>
+            <scope>test</scope>
+        </dependency>
+
+
     </dependencies>
 
 </project>

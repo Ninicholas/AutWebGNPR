@@ -30,6 +30,8 @@ dist/
 # Maven
 target/
 dist/
+test-output/
+test_output.txt
 
 # JetBrains IDE
 .idea/
